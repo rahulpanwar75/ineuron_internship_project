@@ -7,6 +7,6 @@ Do ETL : Extract-Transform-Load the dataset and find for me some information fro
 
 Dataset:
 You can find the dataset on the given link https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp=sharing
-but in that dataset not available for this link . Contact For ineuron support team for dataset and get it.
+But that dataset not available for this link . Contact For ineuron support team for dataset and get it.
 
 Approaches: Python, R, Tableau, Power BI or you can use any tools and techniques as per your convenience. We would appreciate your valid imagination in finding solutions
