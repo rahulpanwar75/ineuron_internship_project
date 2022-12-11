@@ -1,1 +1,1 @@
-# ineuron_internship_project
+# ANALYZING GOOGLE APPS STORE
