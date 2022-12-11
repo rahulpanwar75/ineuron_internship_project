@@ -1,5 +1,5 @@
 # ANALYZING GOOGLE APPS STORE
-A Dashboard was created by me in Power BI Desktop to showcase the  GOOGLE PLAYSTORE APPS , top and bottom items, category wise and apps-wise revenue analysis of various apps in different years. It gives a detailed insight into the various trends. The data set was provided by ineuron to complete the project and extract various information from it.
+A Dashboard was created by me in Power BI Desktop to showcase the  GOOGLE PLAYSTORE APPS , analyzing the popularity in the apps, category wise and apps-wise revenue analysis of various apps in different years. It gives a detailed insight into the various trends. The data set was provided by ineuron to complete the project and extract various information from it.
 
 Problem Statement: Technology is the increasing need nowadays and used everywhere. One of the features of Technology is android. Which we all use in our daily life. Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
